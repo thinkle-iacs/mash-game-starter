@@ -1,11 +1,7 @@
-import './App.css'
+import "./App.css";
 
 const App = () => {
-  return (
-    <main>
-      Hello World
-    </main>
-  )
-}
+  return <main>Hello APCSP</main>;
+};
 
 export default App;
