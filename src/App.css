@@ -3,3 +3,14 @@ body {
     color: #fafaff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+h1,h2,h3,h4,h5,h6,p {
+    margin-block: 0.5em;
+}
+main {
+    max-width: 960px;
+    margin-inline: auto;
+}
+input,button {
+    padding-inline: 8px;;
+    padding-block: 4px;
+}
