@@ -24,12 +24,11 @@ button {
     border: none;
     border-radius: 8px;
 }
-.row {
-    display: flex;
+.row,.col {
     gap: 8px;
+    align-items: center;
+    display: flex;
 }
 .col {
-    display: flex;
-    gap: 8px;
     flex-direction: column;    
 }
