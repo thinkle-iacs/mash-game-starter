@@ -2,6 +2,13 @@
 
 A starter template for students working on a "mash" like game in JavaScript, using React as a basic framework.
 
+## Running this Project
+To run this project, open the Terminal (below) and type:
+
+```sh
+npm run dev
+```
+
 ## Requirements
 
 Build a game using React which uses lists and strings. The project is named the "MASH" project because "MASH" is one such game: you tell someone's fortunes by compiling a list of possibilities (MASH stands for possible domiciles: Mansion, Apartment, Shack or House), and then traditionally using a counting method, you choose among the options to tell the users fortune.
